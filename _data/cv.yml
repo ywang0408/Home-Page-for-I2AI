@@ -1,11 +1,8 @@
 cv:
   name: Yang Wang
-  label: Computer Science · AI Systems
   email: yangwan5@andrew.cmu.edu
-  phone: (516) 226-6666
+  phone: "+15162266666"
   location: Los Angeles, CA 91789
-  image: ""
-  summary: MS candidate in AI System Management at Carnegie Mellon University with a BS in Computer Science from UC Riverside. Founder of SociaFly and experienced in front-end development, AI systems, and full-stack mobile product development.
 
   social_networks:
     - network: Instagram
@@ -30,18 +27,8 @@ cv:
         studyType: BS
         start_date: 2022
         end_date: 2026-06
-        courses:
-          - "A.I."
-          - Machine Learning
-          - Data Science Ethics
-          - Combinatorial Optimization Algorithms
-          - Computer Graphics
-          - Operating Systems
-          - Compilers
-          - Advanced Robotics
-          - Automata and Formal Languages
-          - Software Construction
         highlights:
+          - "Relevant coursework: A.I., Machine Learning, Data Science Ethics, Combinatorial Optimization Algorithms, Computer Graphics, Operating Systems, Compilers, Advanced Robotics, Automata and Formal Languages, Software Construction"
           - Graduated June 2026
 
     Experience:
